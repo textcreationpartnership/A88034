@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to Leiutenant [sic] Collonel Iohn Lilburn now prisoner in the Tower.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88034</idno><idno type="EEBO-CITATION">99866216</idno>
+  <idno type="VID">118481</idno>
+  <idno type="EEBO-PROQUEST">2240951970</idno>
+  
+            <idno type="STC">Wing L1709</idno>
+            <idno type="STC">Thomason E712_14</idno>
+            <idno type="STC">ESTC R207145</idno>
+            <idno type="PROQUEST">99866216</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866216e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to Leiutenant [sic] Collonel Iohn Lilburn now prisoner in the Tower.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, and are to be sold at the sign of Sir John Old-castle, in Py-corner,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Sept. 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:118481:1"/>
+            <head>A LETTER <hi>to Leiutenant Collonel</hi> Iohn Lilburn <hi>now Prisoner in the</hi> Tower.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving met with divers prints of late under your name, and among others one Entituled, <hi>The upright mans vindication, or an Epistle writ by</hi> John Lilburn <hi>Gentleman, &amp;c. unto his friends, and late neighbours at</hi> Theobalds <hi>in</hi> Hartfordshire, <hi>&amp;c.</hi> It hath been much upon my spirit to present some small things I have observed in it unto your more serious and second cogitations; and that out of hearty love (such as one Christian ought to bear another) unto your in<g ref="char:EOLhyphen"/>ward, and outward man. Sir, I hope that you who have been seldome sparing (as I suppose counting it a duty) in remembring others of their faults, will not take it amiss in me to present some failings, which I find in you, unto your sight, it being not to upbraid, or reproach, but to advise, and counsell you for the future: neither can I believe you will be offended to see it in print, which was done to save you a labour, and in imitation of your own practice, which you cannot allow in your self, and dislike in another, neither knew I how to convey it any other way unto you; But this may suffice for reason, both for my ad<g ref="char:EOLhyphen"/>dress, and the manner of it.</p>
+            <p>Sir, I find you beginning with some texts of holy writ, <hi>A good name is better than precious ointment; A good name is rather to be chosen than great riches; A good report maketh
+<pb n="2" facs="tcp:118481:2"/>the bones fat.</hi> Which I suppose you look upon as truths, or to what end did you quote them? and if so, then surely they are general, alike to all, yet by your practice in your subsequent dis<g ref="char:EOLhyphen"/>course, you would perswade us, that you look upon them as onely concerning Mr. <hi>Lilburn;</hi> for upon every displeasure and conceit, you brand your supposed enemies with such calumnies (give me leave so to term them, for you can never make them cut upon your own knowledge to be true, unless you are able to search the heart) as make it apparent, that another mans name is no precious ointment in your nose. Suppose Major <hi>Packer</hi> did render you as an Hypocrite, an Apostate, and a great combine<g ref="char:EOLhyphen"/>ing enemy with the Nations enemies (a Common-wealth he called it I believe, though you scorn to do so) and doth not a fal<g ref="char:EOLhyphen"/>lacy lurk here in the terms? you are no enemie to the Nation, and yet may be no friend to the Common-wealth; so will the Caveliers say too, who have a mind to <hi>England,</hi> even to ruin the Common-wealth. Suppose I say he presented you as such an one in his thoughts; must you therefore return the same, or as bad language? <hi>A great seeming religious man, a pretended re<g ref="char:EOLhyphen"/>ligious man</hi> (is not <hi>Hypocrita</hi> latin for this?) <hi>one raised from the dunghill, or a mean condition, to be one of the cruel Lords, or unjust Taskmasters of the people of</hi> England. Then first, you do this in print, did he do so? Secondly, He hath the oaths of divers men taken before the Council of State, to give his opinion a ground; what you have for yours, unlesse malice, I see not, for you give not one reason to induce a belief that he is such an one. Admit he defamed you, is that a warrant for you to defame him? is this the effect of the Christianity you so much boast of, and the fruits of your sincerity, meekness, and uprightness you call your neighbours to be witnesses of in the same page? Truly, Sir, the most Christian may question the tree which brings forth such fruit. Look, Sir, I beseech you a little into your self, you are quick enough in discovering moats in others, let not that beam of revenge, rancour, and fury continue undiscern'd, nay, un<g ref="char:EOLhyphen"/>plucked out of your own eye, a bitter vein of which runs through all your following discourse.</p>
+            <p>The next thing I shall take notice of, is your address to the
+<pb n="3" facs="tcp:118481:2"/>Council of State, which you stile your honest address. Had you called it humble, it would have been a more proper Epithite for the address, and better have become the addresser; for humility is a garb a Christian need never to be ashamed on: yet either you are wholly unacquainted with it, sure, or much undervalue it, your address having not any sign, or print of it in the least, in which if in any place a man might look for it. Indeed you are pleased to stile it an address, and so let it go, yet had not you so named it, I could not have told what to have called it; wherein I find nothing but a disorderly relation of your own, and your wives thoughts and actings, bombasted with extolling your own bravery, and gallantry in the field, even to that odious degree of comparison with any man in the Army (a thing had not you said could hardly have been believed) proclaiming your sufferings (which many judge your unquiet spirit the cause of) and your unmatchable constancy, notwithstanding all the temptations of wealth, preferment, &amp;c. stuffed with invectives against the late Parliament, the General, Council of Officers, and the present Parliaments call; and brags of the greatness of your party (a course some have sworn you practised amongst the Caveliers beyond sea) comparing your self to <hi>Titus Flaminius,</hi> whom therefore contrary to all History you will have called the desire and delight of mankind, though you are as farre out in your hy<g ref="char:EOLhyphen"/>story (it being <hi>Titus</hi> the son of <hi>Vespasian,</hi> that destroyed <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> who was stiled <hi>Deliciae humani generis</hi>) as comparison; and likening the General and Major Generals to the <hi>Triumviri Lepidus, Antony,</hi> and <hi>Augustus.</hi>
+            </p>
+            <p>Sir, Sure you could not judge this a probable way to prevail by; look to it, lest you have not as well practised as studied <hi>Matchiavels</hi> tenents, which you endeavour to pin upon others: for will any rationall man think, that Mr. <hi>Lilburn</hi> could ima<g ref="char:EOLhyphen"/>gine (had he never so high a conceit of his valour and party) that he should threaten the General, Council of Officers, and Council of State into a compliance or obedience to his will? which were they men of the lowest, or most abject spirits, the very fear of their own safeties would cause them to oppose his re<g ref="char:EOLhyphen"/>turn; for what less doth your discourse amount to in English
+<pb n="4" facs="tcp:118481:3"/>than this, that you the great Patron of Liberty, with your party of <hi>hobnails, clouted-shoes, private souldiers, leat hern and wollen aprons,</hi> would extripate these great men, who <hi>practise the worst of</hi> Matchiavels <hi>tenents, and who by their gilded pretence of Religion, and by craft, cunning, deceit, cruelty, policy, and sheding of blood, have got into great places, and power, which they would keep in their own hands arbitrarily by will and pleasure to destroy all the lives, liberties, and pro<g ref="char:EOLhyphen"/>perties of all the quick-sighted people of</hi> England <hi>at their plea<g ref="char:EOLhyphen"/>sure.</hi>
+            </p>
+            <p>These are very odd arguments of perswasion, and rather inti<g ref="char:EOLhyphen"/>mate something like a design in you, not to have them recall you, that you might take an advantage to come over and raise tumults against them for denying your return. You will threaten and rail them into a condescension, and come trampling in upon their dishonour, and cowardice, or else make them accesso<g ref="char:EOLhyphen"/>ries after the fact, to your cryed-out so unjust banishment, and so have a plausible ground to be spatter them with <hi>a more cruel, unjust, and harsh dealing with you, than with any professed e<g ref="char:EOLhyphen"/>nemy in</hi> England, Scotland, <hi>or</hi> Ireland. And indeed you made sufficient provision for this on all hands; lest they should be pitti<g ref="char:EOLhyphen"/>full, you would exasperate and dare them, and then not know<g ref="char:EOLhyphen"/>ing, but that their spirits might not be proof against your un<g ref="char:EOLhyphen"/>heard of valour, you threaten them, and assure them of certain ruin at your approach, their so potent, so much followed, and so professed enemy. These are practices indeed <hi>Matchiavel</hi> might instruct you in; and <hi>Borgia,</hi> or <hi>Alexander</hi> the sixth themselves could not have outreached you in policy: but you had best look that you have strength to carry it on; for I suppose your histo<g ref="char:EOLhyphen"/>ries will afford you little encouragement. In your Roman, you shall see <hi>Saturninus, Tiberius,</hi> and <hi>Caius Gracchus,</hi> a <hi>Tri<g ref="char:EOLhyphen"/>umviri</hi> too, who when they had raised seditions against the Se<g ref="char:EOLhyphen"/>nate, cryed up liberty, and were backed by such a party as you lately boasted of, were slain even in the midst of their popular and tumultuary faction; so weak a defence is the multitude.</p>
+            <p>You talk of the Law <hi>Agraria</hi> among the Romans, boasting you will do the like in <hi>England,</hi> conjuring <hi>the Councill of State
+<pb n="5" facs="tcp:118481:3"/>as they love their own welfare, and the Nations, to get you a Pass;</hi> could you, nay had you done what you promise, <hi>Tibe<g ref="char:EOLhyphen"/>rius Gracchus</hi> did the like, he divided the land by the <hi>lex Agraria,</hi> neither did he bargain for thousands of acres for him<g ref="char:EOLhyphen"/>self as you are reported to have done in your <hi>Lincolnshire</hi> land division, he divided King <hi>Attalus</hi> his money by the <hi>lex de pe<g ref="char:EOLhyphen"/>cunia Attalia;</hi> yet this <hi>Tiberius</hi> a man of the most noble patriti<g ref="char:EOLhyphen"/>an extraction, <hi>son</hi> of <hi>Tib. Gracchus</hi> (<hi>Censor,</hi> twice <hi>Consull,</hi> and one whom often Triumphs rendred not more glorious than his vertue) and <hi>Cornelia</hi> daughter to that famous <hi>Scipio Afri<g ref="char:EOLhyphen"/>canus;</hi> this <hi>Tiberius</hi> I say, who alone had preserved twenty thousand Citizens at one time in <hi>Spain,</hi> had made such lawes in favour of the people, in his very <hi>Tribuneship,</hi> an office sa<g ref="char:EOLhyphen"/>cred and inviolable, attempting further against the dignity of the Senate, was by <hi>Scipio Nasica,</hi> and an unarmed and gowned Senate, slain in the midst of his favourites, together with three hundred of his followers, with the bare tressels, and feet of the broken seats; so little safety is in the protection of the multi<g ref="char:EOLhyphen"/>tude.</p>
+            <p>Then in your Graecian histories, where it was not unusual for the Demogogues, and Ring-leaders of popular tumults to scanda<g ref="char:EOLhyphen"/>lize, and accuse those vertuous and valiant Captains, who by their great services lay open to envy and jealousiy; but mark the conclusion, when the people began to cool, consider, and want their gallant Citizens unjustly banished, or rashly murdered, They still turned their fury upon those incendiaries, in their ruin seeking a revenge of their own folly and rashness; as <hi>Plutarch</hi> in the life of <hi>Phocion,</hi> &amp;c.</p>
+            <p>Lastly, in our own histories you shall find that popular insur<g ref="char:EOLhyphen"/>rections never raised their Ring-leaders above the gallows, as in <hi>Jack straw, Cade,</hi> and <hi>Wat Tyler,</hi> who was stabbed by the Maior of <hi>London,</hi> in the height of his jollity, and in the head of twenty thousand of the rabble, without the least hurt to any of the contrary side: you are not therefore to put your trust too much in such a party, neither upon confidence in them are you too highly to esteem your self, if you value your honour or safe<g ref="char:EOLhyphen"/>ty.</p>
+            <pb n="6" facs="tcp:118481:4"/>
+            <p>For your letter to the General I must professe it amazed me to see so little of reason, but less of prudence, and least of all of Christianity in a thing ownd by Mr. <hi>Lilburn:</hi> you will have him to be the man who alone with <hi>the bare lifting up his finger was able to recall you,</hi> and I will admit it to be so, to avoid contests; was the charging him to have basely attempted your life, mur<g ref="char:EOLhyphen"/>thered three of your children, threatning to scuffle with neither small nor great but onely him, and at last concluding with a challenge, that as a sturdy fellow, you would give him satisfa<g ref="char:EOLhyphen"/>ction face to face, if he had any thing to say to you, a likely motive to induce him to satisfie <hi>your hearty, and earnest intrea<g ref="char:EOLhyphen"/>ty?</hi> Truly Sir, this is so farre from favouring of what you so largely profess, and call our <hi>Hartfordshire</hi> neighbours to wit<g ref="char:EOLhyphen"/>ness to, to wit, Christianity, that I profess I know not what to term it: can any man (do you think) be so sensless, as not to perceive that the General, had he had a mind to have done as you affirm, wanted either power or opportunity to have effected it in six or seven years? Surely, Sir, if my memory fail me not, you went into <hi>Scotland</hi> to him within less than that time, where such a business might have been brought to pass with little ado, and less suspition; then for the murder of your children, a scandal so sensless, that one less than a madman (and truly wrath makes men mad) would have been ashamed to own it; for the last of a challenge, a thing the meer moralists so detested, that they generally pronounce it no part of true fortitude to accept of, or cowardice to refuse; and so abominated by Christians, that it is ranked in the first of sinnes, pregnant with twins of self mur<g ref="char:EOLhyphen"/>der, and murdring ones neighbour; nay it favoured much of a spirit, like those you are accused to be then too intimate with, the old Cavallier I mean, and may give your ill-willers occasion to think it done to please them, and that they had a hand in, or at least instigated you to the penning such a thing: which should you set aside Christianity, even reason would be ashamed to own; would not the General be courted a madman to accept such an offer? pray consider then what must the offerer be thought to be. Sir, let me tell you, it was so far from bravery, that it was plain folly; might not he well answer you (as <hi>Augu<g ref="char:EOLhyphen"/>stus</hi>
+               <pb n="7" facs="tcp:118481:4"/>did <hi>Antony,</hi> who being routed and besieged, sent him a challenge) if Mr. <hi>Lilburn</hi> have a mind to dye, there are wayes enough to accomplish it? or may not <hi>Charles Stuart,</hi> on as good a ground send to the General to get him a Pass? consider it in another, and it may be you will discern the unhandsomness of the action.</p>
+            <p>Then for that word sturdy, I would desire you not to pride so much in it, it being alwayes taken for a rebellious and obsti<g ref="char:EOLhyphen"/>nate disposition, despising the law of God and man; hence our English Law imposes it as an Epithite suitable onely for rogues, vagabonds, and sturdy beggers, whose reward is the whipping-post, and house of correction.</p>
+            <p>You also blame your wife, who, give me leave to tell you, in what you lay to her charge, all sober and moderate men must judge to be the more prudent of the two, and I heartily wish you had been ruled by her, both for your own quiet, and your friends comfort; as also that you had been silent in declaring the reason of your strange address; and your <hi>printing it in Dutch and English, upon meer presumptions of a denial, with your sending it to</hi> Paris <hi>to be printed in French, to</hi> Amsterdam <hi>to be printed in Latin and Dutch, to make sufficient use of.</hi> What misconstructions may this put upon your actions? and what oc<g ref="char:EOLhyphen"/>casion may it afford your enemies to say, Mr. <hi>Lilburn</hi> had more than himself in this action, for sure he could not attain to so many languages so soon? and who they were that would be so ready to revile the present Governours all men may know: what could this printing be sufficient for, unless an endeavour to exasperate foreiners, and give them occasion to defame our Common-wealth? what could those arguments against the pre<g ref="char:EOLhyphen"/>sent Parliament be sufficient for, but to render them mean, and contemptible; and to tickle and please the old Cavalliers, those inveterate enemies of our countries freedom? and to say truth, you could not imagine the <hi>French</hi> would send an Army, and the <hi>Dutch</hi> a Navy to settle you in <hi>England,</hi> that you took such care to state your case unto them; it must then seem to suffice for some other end, which every one will guess at according to his fancy: but these few among many will suffice to stir you up, I hope, to
+<pb n="8" facs="tcp:118481:5"/>make a stricter enquiry into your carriage, and a deeper search into your heart.</p>
+            <p>Consider, if God should say I have afflicted my servant <hi>Lilburn,</hi> and he is not humbled, but rather grown more lofty, and bitter, I have smitten his children, and he will not take notice of my hand; I will therefore chastize him with scorpions, since rods will not reclaim him: yea, may not this justly provoke him to lay more, and heavier afflictions on you, to take away the rest of your children, your wife, yea, your own life? I beseech you, Sir, lay these things seriously to heart, seek God earnestly in prayer, that he may discover for what end he hath smitten you, and endeavour to be humble and meek, and no doubt but he will look upon you in mercy, and restore you; which that he may do is and shall be the earnest desire of his soul, who is,</p>
+            <closer>
+               <signed>Your present Christian friend,</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>FOr my name, I thought fit not to publish it, it being no part of my ambition to appear in print, being moreover assured that you look more to the reason, then the person of a man.</hi>
+            </p>
+            <p>Entered according to the late Act for Printing.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> and are to be sold at the sign of Sir <hi>John Old-castle,</hi> in <hi>Py-corner,</hi> 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
